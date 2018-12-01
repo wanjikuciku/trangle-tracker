@@ -1,7 +1,7 @@
-  function triangleTracker(){
-  var length = parsefloat(prompt ("Enter the length"));
-  var width = parsefloat(prompt (" Enter the width"));
-  var height = parsefloat(prompt ("Enter the height"));
+  function getTriangle(){
+  var length = (prompt ("Enter the length"));
+  var width = (prompt (" Enter the width"));
+  var height = (prompt ("Enter the height"));
 
   if (length === width && length === height && (width === height) {
   alert ("Equilateral: All sides are equal!")
