@@ -1,0 +1,10 @@
+*body{
+  background-image: url("https://wallpapercave.com/wp/P7Uwcss.jpg");
+   background-repeat: no-repeat;
+   position: relative;
+   background-size: cover;
+   background-attachment: local;
+   overflow-y: auto;
+   font-family: 'Fruktur', cursive;
+   font-size: 35px;
+}
