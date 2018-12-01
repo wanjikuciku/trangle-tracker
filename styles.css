@@ -1,8 +1,8 @@
 body{
-   background-color: white;
+   background-color: black;
    font-family: 'Fruktur', cursive;
    font-size: 20px;
-   color: black;
+   color: white;
 }
 h1{
   text-align: center;
@@ -28,4 +28,15 @@ h4{
 p{
     font-size: 20px;
     text-align: center;
+}
+button{
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
 }
