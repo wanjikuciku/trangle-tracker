@@ -1,8 +1,8 @@
 body{
-   background-color: black;
+   background-color: white;
    font-family: 'Fruktur', cursive;
    font-size: 20px;
-   color: white;
+   color: black;
 }
 h1{
   text-align: center;
@@ -30,8 +30,8 @@ p{
     text-align: center;
 }
 button{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   border: none;
   padding: 15px 40px;
   text-align: center;
