@@ -1,17 +1,18 @@
-var triangleTracker = function(){
-  var length=document.prompt("enter the length")
-  var width=document.prompt("enter the width")
-  var height=document.prompt("enter the height")
+  function triangles (){
+  var length=parseFloat(prompt("enter the length"));
+  var width=parseFloat(prompt("enter the width"));
+  var height=parseFloat(prompt("enter the height"));
 
-  if(length===width && length===height && (width===height) {
-  alert("Equilateral:All sides are equal")
+  if(length===width && length===height && width===height){
+  alert("equilateral:All sides are equal");
   }
   else if(length===width || length===height || width===height) {
-  alert("Isosceles:Exactly 2 sides are equal")
+  alert("isosceles:Exactly 2 sides are equal");
   }
   else if((length+width)<=height || (length+height)<=width || (width+height)<=length) {
-  alert("Scalene:No sides are equal")
+  alert("NOT a triangle");
   }
-  else{
-  alert("NOT a triangle")
+  else {
+  alert("scalene:No sides are equal");
+  }
   }
