@@ -2,7 +2,7 @@ Triangle-tracker App
 { Triangle-tracker}, {1/12/2018}
 By lorna wanjiku
 Description
-its a site made by me I mean myself where by if you click the checkbox then you fill in your length width and height it will answer you which type of triangle is that. Now that's the{ Triangle-tracker}.
+its a site made by me I mean myself where by if you click the try it out then you fill in your length width and height it will answer you which type of triangle is that. Now that's the{ Triangle-tracker}.
 
 Setup/Installation Requirements
 run this link:https://wanjikuciku.github.io/triangle-tracker/
